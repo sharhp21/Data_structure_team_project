@@ -1,2 +1,12 @@
-# Data_structure_team_project
-time_table_of_310
+# Data Structure Design - Team Project
+
+## Team Name
+
+디징
+
+## Team
+
+- 김현태
+- 박성환
+- 천용진
+- 윤종하
